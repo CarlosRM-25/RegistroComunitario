@@ -55,3 +55,20 @@ Al enviar el formulario, los datos se guardan en una lista temporal (en memoria)
 
 ## Arquitectura del Proyecto
 
+RegistroComunitario/
+├── Controllers/
+│ └── VecinosController.cs
+├── Models/
+│ └── Vecino.cs
+├── Repositories/
+│ ├── IVecinoRepository.cs
+│ └── VecinoRepository.cs
+├── Views/
+│ ├── Vecinos/
+│ │ ├── Create.cshtml
+│ │ └── Index.cshtml
+│ └── Shared/
+│ └── _Layout.cshtml
+├── wwwroot/
+├── Program.cs
+└── README.md
