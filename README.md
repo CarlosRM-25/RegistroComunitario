@@ -61,8 +61,8 @@ RegistroComunitario/
 ├── Models/
 │ └── Vecino.cs
 ├── Repositories/
-│ ├── IVecinoRepository.cs
-│ └── VecinoRepository.cs
+│ ├── IVecinoRepo.cs
+│ └── VecinoRepo.cs
 ├── Views/
 │ ├── Vecinos/
 │ │ ├── Create.cshtml
